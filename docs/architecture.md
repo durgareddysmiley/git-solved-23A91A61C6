@@ -1,31 +1,7 @@
 # System Architecture
 
-## Overview
-DevOps Simulator follows a microservices architecture designed for high availability and scalability.
+The production system runs on AWS with auto-scaling groups and a managed Postgres database. 
+It uses Docker containers orchestrated by Kubernetes.
 
-## Components
-
-### 1. Application Server
-- **Technology**: Node.js + Express
-- **Port**: 8080
-- **Scaling**: Horizontal auto-scaling enabled
-
-### 2. Database Layer
-- **Database**: PostgreSQL 14
-- **Configuration**: Master-slave replication
-- **Backup**: Daily automated backups
-
-### 3. Monitoring System
-- **Tool**: Prometheus + Grafana
-- **Metrics**: CPU, Memory, Disk, Network
-- **Alerts**: Email notifications for critical issues
-
-## Deployment Strategy
-- **Method**: Rolling updates
-- **Zero-downtime**: Yes
-- **Rollback**: Automated on failure
-
-## Security
-- SSL/TLS encryption
-- Database connection encryption
-- Regular security audits
+For development, the system runs locally using Docker Compose for container orchestration. 
+It uses a lightweight Postgres instance for testing.
