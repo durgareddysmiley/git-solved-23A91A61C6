@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This created a new commit showing “Revert …” in the history.
 
 ---
@@ -15,3 +16,6 @@ This created a new commit showing “Revert …” in the history.
 **Completed by:** Durgareddy Smiley  
 **Date:** 28-10-2025  
 **Course:** Git Mastery Challenge  
+=======
+"# GIT Journey" 
+>>>>>>> ed54b5a (Added GIT_JOURNEY.md with conflict documentation)
