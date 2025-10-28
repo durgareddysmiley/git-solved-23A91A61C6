@@ -1,5 +1,11 @@
-* main
-  remotes/origin/HEAD -> origin/main
+* conflict-simulator
+  dev
+  main
+  temp-merge1
+  temp-merge2
+  remotes/instructor/HEAD -> instructor/main
+  remotes/instructor/conflict-simulator
+  remotes/instructor/dev
+  remotes/instructor/main
   remotes/origin/conflict-simulator
   remotes/origin/dev
-  remotes/origin/main

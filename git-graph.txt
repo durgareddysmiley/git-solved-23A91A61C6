@@ -1,3 +1,20 @@
+* 4a88f35 chore(conflict-simulator): add note for checklist
+* 4813b7a chore(dev): add dev-note for checklist
+* 4ee8b77 Rename checkpoint screenshots to single .png extension
+* 4a0e704 Add all 3 checkpoint screenshots
+* fa56855 Add CHANGELOG.md file
+* c86f6e3 Add CHANGELOG.md with version history
+* 04604c5 Merge conflict resolved
+* 148923b Create GIT_JOURNEY.md
+*   5e099fc Merge branch 'temp-merge2' into main
+|\  
+| * f386e7b Add merge2 test file
+|/  
+*   1b18b15 Merge branch 'temp-merge1' into main
+|\  
+| * 621a474 Add merge1 test file
+|/  
+* 3ac2494 Add final artifacts for submission
 * 9471531 docs: update README step 5
 * 4616191 docs: update README step 4
 * 7f26ce5 docs: update README step 3
