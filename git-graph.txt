@@ -1,0 +1,27 @@
+* 9471531 docs: update README step 5
+* 4616191 docs: update README step 4
+* 7f26ce5 docs: update README step 3
+* 1efcfb8 docs: update README step 2
+* 3f01867 docs: update README step 1
+* f41dd45 Added extra2 file
+* 6604d51 Added extra1 file
+* 9dc182b Added update10 file
+* 125b857 Added update9 file
+* edeb211 Added update8 file
+* 0a0fdd5 Added update7 file
+* aec81c7 Added update6 file
+* 7dd89b5 Added update4 file
+* 6196026 Added update3 file
+* a9b5151 Added update2 file
+* 5b2d57f Added update1 file
+*   75cea20 merge: resolved conflicts between main and conflict-simulator branches
+|\  
+| * d3dd9b2 updating conflict-simulator
+* |   23df63e Resolved all merge conflicts between main and dev
+|\ \  
+| * | 02011a5 updating dev
+| |/  
+* | 0312c6f updating main
+* | fadfd24 Revise README for DevOps Simulator project
+|/  
+* ae630eb Initial commit
