@@ -1,3 +1,7 @@
 "change from dev" 
 "change from main" 
+<<<<<<< HEAD
 "Different main change" 
+=======
+"New change from conflict-test-4" 
+>>>>>>> conflict-test-4
